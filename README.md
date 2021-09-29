@@ -1,2 +1,2 @@
 # DrowsinessAlert
-OpenCV model to classify human eye condition(drowsy or not).
+OpenCV model to classify human eye condition(drowsy or not)
